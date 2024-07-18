@@ -1,0 +1,192 @@
+/* styles.css */
+
+* {
+    font-family: "Poppins", sans-serif;
+
+}
+
+.main {
+    max-width: 1000px;
+    margin: 0px auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: 1px solid black;
+
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkblue;
+    padding: 40px;
+    padding-top: 10px;
+    align-items: center;
+    color: white;
+}
+
+.head1 {
+    max-width: 75%;
+}
+
+.head2 img {
+    margin-top: -20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    padding: 2px;
+}
+
+.white {
+    padding: 0px;
+    
+}
+
+.white h3 {
+    background-color: darkblue;
+    display: inline-block;
+    padding: 10px 60px;
+    width: 30%;
+    border-bottom: 1px solid darkblue;
+    color: white;
+}
+
+.comp1 {
+    position: absolute;
+    left: 35%;
+    top: 45%;
+    width: 30%;
+
+
+}
+
+.comp2 {
+    position: absolute;
+    left: 35%;
+    top: 65%;
+    width: 30%;
+
+
+}
+
+.job1 {
+    padding-left: 60px;
+    padding-top: 2px;
+}
+
+.job2 {
+    padding-left: 60px;
+    padding-top: 96px;
+}
+
+.experience {
+    padding-bottom: 100px;
+
+}
+
+.education {
+    padding-bottom: 40px;
+}
+
+.edu1 {
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.edu2 {
+    padding-left: 70px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.edu3 {
+    padding-left: 70px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.edu1 h4 {
+    margin: -10px;
+    padding-bottom: 2px;
+
+}
+
+.edu2 h4 {
+    margin: -10px;
+    padding-bottom: 2px;
+
+}
+
+.edu3 h4 {
+    margin: -10px;
+    padding-bottom: 2px;
+
+}
+
+.edu1 span {
+    padding-left: 24%;
+}
+
+.edu2 span {
+    padding-left: 24%;
+}
+
+.edu3 span {
+    padding-left: 24%;
+}
+
+.degree1 {
+    position: absolute;
+    left: 47%;
+    top: 99.5%;
+    width: 28%;
+}
+
+.degree2 {
+    position: absolute;
+    left: 47%;
+    top: 110.5%;
+    width: 28%;
+}
+
+.degree3 {
+    position: absolute;
+    left: 47%;
+    top: 121%;
+    width: 28%;
+}
+
+.com {
+    padding-bottom: 20px;
+}
+
+.com p {
+    padding-left: 65px;
+    width: 90%;
+}
+
+hr {
+    height: 1px;
+    position: absolute;
+    top: 42.4%;
+    width: 50%;
+    background-color: darkblue;
+    border: none;
+}
+
+.line2{
+    background-color:darkblue;
+    width: 50%;
+    font-size: 1.4px;
+    position: absolute;
+    top: 92.3%;
+
+}
+
+.line3{
+    background-color:darkblue;
+    width: 50%;
+    font-size: 1.4px;
+    position: absolute;
+    top: 141.8%;
+
+}
